@@ -1,44 +1,49 @@
-# bimbo-whisper
-sends whispers to your charachter
-# BondageProjects Whisperer
-
+BondageProjects Whisperer
 A Tampermonkey userscript that sends random whispered messages periodically to enhance your experience on BondageProjects and related sites.
 
-## Features
+✨ Features
+Sends a random whisper every 1 to 2 minutes
 
-- Sends a random whisper every 1 to 2 minutes.
-- Works on multiple BondageProjects domains.
-- Easily customizable whispers list.
+Works on multiple BondageProjects domains
 
-## Installation
+Easy to customize the whisper list
 
-1. **Install Tampermonkey extension** for your browser if you haven't already:
+🚀 Installation
+Install the Tampermonkey extension for your browser:
 
-- [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-- [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+Tampermonkey for Chrome
 
-2. Click the link below to install the userscript:
+Tampermonkey for Firefox
 
-[Install BondageProjects Whisperer](https://raw.githubusercontent.com/kittenzflight/bimbo-whispers/main/bondageprojects-whisperer.user.js)
+Tampermonkey for Edge
 
-3. Tampermonkey will prompt you to confirm installation. Click **Install**.
+Install the userscript:
 
-4. Visit any of the supported BondageProjects sites, and the script will automatically start sending whispers.
+👉 Install BondageProjects Whisperer
 
-## Supported Sites
+Tampermonkey will prompt you to confirm installation. Click Install.
 
-- `https://bondageprojects.elementfx.com/`
-- `https://www.bondageprojects.elementfx.com/`
-- `https://bondage-europe.com/`
-- `https://www.bondage-europe.com/`
-- `https://bondageprojects.com/`
-- `https://www.bondageprojects.com/`
+Open any supported BondageProjects site — the script will activate automatically.
 
-## Support
+🌐 Supported Sites
+https://bondageprojects.elementfx.com/
 
-For issues, suggestions, or contributions, please visit the [GitHub repository](https://github.com/kittenzflight/bimbo-whispers/tree/main).
+https://www.bondageprojects.elementfx.com/
 
----
+https://bondage-europe.com/
 
-Enjoy your whispers! 💬✨
+https://www.bondage-europe.com/
+
+https://bondageprojects.com/
+
+https://www.bondageprojects.com/
+
+💡 Customization
+You can edit the whispers array in the userscript to add, remove, or change the phrases sent.
+
+🛠️ Support
+Issues, suggestions, or contributions? Visit the GitHub repo:
+
+🔗 https://github.com/kittenzflight/bimbo-whisper
+
+💬 Enjoy the whispers. Let your mind float. ✨
