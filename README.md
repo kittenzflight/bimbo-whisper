@@ -19,7 +19,8 @@ Tampermonkey for Edge
 
 Install the userscript:
 
-👉 Install BondageProjects Whisperer
+👉 Install BondageProjects Whisperer [![Install Script](https://img.shields.io/badge/Install%20BondageProjects%20Whisperer-Tampermonkey-blue?logo=tampermonkey)](https://raw.githubusercontent.com/kittenzflight/bimbo-whisper/main/whispers.js)
+
 
 Tampermonkey will prompt you to confirm installation. Click Install.
 
